@@ -44,8 +44,3 @@ O notebook correspondente pode ser encontrado [aqui](./PC05_CNN.ipynb).
 
 ## Participação
 Este projeto foi desenvolvido em parceria com **Beatriz Akiria de Assis Quaresma**.
-
----
-
-## Licença
-Este repositório está licenciado sob a [Licença MIT](./LICENSE).
